@@ -13,6 +13,14 @@ You can set other properties such as picture/background prefix, file name and bu
 
 <img width="742" height="193" alt="Picure with example of settings" src="https://github.com/user-attachments/assets/57bcdb8c-a94a-4bbf-a6ed-a7e5f4d507ad" />
 
+Powerpoint:
+<img width="2558" height="1385" alt="image" src="https://github.com/user-attachments/assets/92c01f8d-afca-4a35-ba97-668e4e34652d" />
+
+
+Interactive Board in-game:
+<img width="841" height="522" alt="image" src="https://github.com/user-attachments/assets/795c95ca-2377-4cc7-a60d-275f5f1652ad" />
+
+
 Notice:
 - This is only meant as a fast way to create basic InteractiveBoard configurations from simple powerpoint hyperlinks.
 - This is offered as-is and is meant for my own personal use. Improvements are not guaranteed. You may issue basic functionality not working.
